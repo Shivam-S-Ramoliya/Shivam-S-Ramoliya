@@ -35,7 +35,9 @@
   <a href="https://www.linkedin.com/in/ramoliya-shivam-sureshbhai-753265287/" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
   </a>
-  
+  <a href="https://instagram.com/ss_ramoliya07" target="_blank" title="Follow on Instagram @ss_ramoliya07">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram" />
+  </a>  
 </p>
 
 <br>
