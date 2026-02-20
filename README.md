@@ -1,3 +1,9 @@
+<h2 align="center">🎮 My GitHub Activity Game</h2>
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=5000&pause=1000&color=D70000&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Shivam+Ramoliya;A+Passionate+Full-Stack+Developer+%26+AI+Learner;Building+Scalable+Apps+with+MERN+%26+Modern+Tech" alt="Animated header" />
 </p>
