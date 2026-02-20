@@ -15,7 +15,6 @@
 
 <br>
 
-
 <h2 align="center">🎮 My GitHub Activity Graph</h2>
 
 <p align="center">
@@ -71,6 +70,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=c" height="50" alt="C" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=matlab" height="50" alt="MATLAB" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" /></a>
@@ -85,6 +85,9 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="pgAdmin" /></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter Notebook" /></a>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <a href="#"><img src="https://skillicons.dev/icons?i=vercel" height="50" alt="Vercel" /></a>
 </p>
 
@@ -107,7 +110,11 @@
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" /></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/mongoose/880000" height="50" alt="Mongoose ODM" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postgres" height="50" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=supabase" height="50" alt="Supabase" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=firebase" height="50" alt="Firebase" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=redis" height="50" alt="Redis" /></a>
 </p>
 
 <h3 align="center">🔹 Libraries & Frameworks</h3>
@@ -116,6 +123,41 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
+
+<h3 align="center">🔹 Coursework</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1E90FF?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/Database_Management_System-D70000?style=for-the-badge" alt="Database Management System" />
+  <img src="https://img.shields.io/badge/Design_%26_Analysis_of_Algorithm-6A5ACD?style=for-the-badge" alt="Design and Analysis of Algorithm" />
+  <img src="https://img.shields.io/badge/Object_Oriented_Programming-FF8C00?style=for-the-badge" alt="Object Oriented Programming" />
+  <img src="https://img.shields.io/badge/Computer_Networks-20B2AA?style=for-the-badge" alt="Computer Networks" />
+  <img src="https://img.shields.io/badge/Human--Computer_Interaction-9932CC?style=for-the-badge" alt="Human-Computer Interaction" />
+</p>
+
+<h3 align="center">🔹 Other Technologies</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/Agile-1E90FF?style=for-the-badge" alt="Agile" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge" alt="Lovable" />
+</p>
+
+<h3 align="center">🔹 Soft Skills</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Team_Collaboration-1E90FF?style=for-the-badge" alt="Team Collaboration" />
+  <img src="https://img.shields.io/badge/Leadership-D70000?style=for-the-badge" alt="Leadership" />
+  <img src="https://img.shields.io/badge/Problem_Solving-20B2AA?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Communication-FF8C00?style=for-the-badge" alt="Communication" />
+  <img src="https://img.shields.io/badge/Time_Management-6A5ACD?style=for-the-badge" alt="Time Management" />
 </p>
 
 <br>
