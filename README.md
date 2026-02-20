@@ -1,7 +1,7 @@
-<h2 align="center">🎮 My GitHub Activity Game</h2>
+<h2 align="center">👋 Welcome to My GitHub Universe</h2>
 
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:1FDDFF&height=100&section=header&text=&fontSize=0" alt="Animated wave divider" />
 </p>
 
 <p align="center">
@@ -15,10 +15,11 @@
 
 <br>
 
-<h2 align="center">👋 Welcome to My GitHub Universe</h2>
+
+<h2 align="center">🎮 My GitHub Activity Graph</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,100:1FDDFF&height=100&section=header&text=&fontSize=0" alt="Animated wave divider" />
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
 </p>
 
 <br>
