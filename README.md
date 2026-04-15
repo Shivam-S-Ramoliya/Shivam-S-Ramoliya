@@ -165,7 +165,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Ramoliya&theme=react-dark&bg_color=0D1117&color=1E90FF&line=D70000&point=1E90FF&area=true&hide_border=false&border_color=D70000" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-S-Ramoliya&theme=react-dark&bg_color=0D1117&color=1E90FF&line=D70000&point=1E90FF&area=true&hide_border=false&border_color=D70000" alt="Contribution Graph" />
 </p>
 
 <br>
@@ -173,17 +173,17 @@
  <h2  align="center">💼 Stats & Insights</h2>
     
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-Ramoliya&theme=radical" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam-S-Ramoliya&theme=radical" alt="Profile Details" />
   </p>
   
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-Ramoliya&theme=radical" alt="Repos Per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam-Ramoliya&theme=radical" alt="Most Commit Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam-S-Ramoliya&theme=radical" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam-S-Ramoliya&theme=radical" alt="Most Commit Language" />
   </p>
   
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-Ramoliya&theme=radical" alt="Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam-Ramoliya&theme=radical" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam-S-Ramoliya&theme=radical" alt="Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivam-S-Ramoliya&theme=radical" alt="Productive Time" />
   </p>
 
 <br>
